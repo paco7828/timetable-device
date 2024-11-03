@@ -3,3 +3,4 @@ TACTS-6x6x7.3 (switch) --> https://www.hestore.hu/prod_10042019.html
 ATTINY13A-PU (microcontroller) --> https://www.hestore.hu/prod_10031400.html
 D13-12864-I2C (screen) --> https://www.hestore.hu/prod_10035540.html
 CR2032-VARTA (battery) --> https://www.hestore.hu/prod_10042619.html
+BS-02-A1AJ010 (battery holder) --> https://www.hestore.hu/prod_10045258.html
