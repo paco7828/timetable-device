@@ -1,0 +1,5 @@
+DS3231+AT24C32 RTCM (RTC module) --> https://www.hestore.hu/prod_10038042.html
+TACTS-6x6x7.3 (switch) --> https://www.hestore.hu/prod_10042019.html
+ATTINY13A-PU (microcontroller) --> https://www.hestore.hu/prod_10031400.html
+D13-12864-I2C (screen) --> https://www.hestore.hu/prod_10035540.html
+CR2032-VARTA (battery) --> https://www.hestore.hu/prod_10042619.html
