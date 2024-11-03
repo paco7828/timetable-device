@@ -1,0 +1,2 @@
+1. User turns on the device
+2. The device shows the current subject's name and the classroom where that class will be held
