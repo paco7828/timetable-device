@@ -1,0 +1,2 @@
+-RTC module not working correctly (showing 2035. 40. 35 as date)
+-Screen error was displayed when the screen was working correctly + code couldn't execute
